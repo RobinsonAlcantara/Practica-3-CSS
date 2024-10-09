@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+p{
+    text-align: justify;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+    background-color: tomato;
+}
+
+.sub{
+    
+    background-color: rgb(6, 70, 49);
+    width: 400px;
+    height: 150px;
+}
+div{
+    margin-bottom: 50px;
+}
+
+h1{
+    color: tomato;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: tomato
+    
+}
